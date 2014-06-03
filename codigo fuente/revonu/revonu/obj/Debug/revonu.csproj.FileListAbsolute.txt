@@ -1,0 +1,6 @@
+c:\users\yonatan\documents\visual studio 2013\Projects\revonu\revonu\bin\Debug\revonu.exe.config
+c:\users\yonatan\documents\visual studio 2013\Projects\revonu\revonu\bin\Debug\revonu.exe
+c:\users\yonatan\documents\visual studio 2013\Projects\revonu\revonu\bin\Debug\revonu.pdb
+c:\users\yonatan\documents\visual studio 2013\Projects\revonu\revonu\obj\Debug\revonu.csprojResolveAssemblyReference.cache
+c:\users\yonatan\documents\visual studio 2013\Projects\revonu\revonu\obj\Debug\revonu.exe
+c:\users\yonatan\documents\visual studio 2013\Projects\revonu\revonu\obj\Debug\revonu.pdb

@@ -1,0 +1,17 @@
+SEMILLERO EN TICS I.T.M 2014.
+
+Profesor investigador Alexander Arias.
+Estudiante ingenieria en sistemas de informacion Yonatan Alexis Quintero Rodriguez.
+
+El software se distribuye con fines educativos y sin animo de lucro.
+
+Nombre de la aplicacion Revonu (Reconocimiento de Voz con numeros).
+
+REVONU, es un software que cuenta con reconocimiento de voz de los numeros del 1 al 100, el cual nosotros del decimos un numero en este rango y nos imprimes desde el 1 hasta el numero que dijimos.
+
+COMO USAR LA APLICACION.
+
+Antes de abrir la aplicacion nos aseguramos de tener un mircrofono instalado.
+
+Los comandos de voz que reconoce REVONU son los siguientes:
+Esperamos que REVONU, nos pregunte que numero queremos, luego decimos el numero, REVONO imprime en pantalla desde el 1 hasta el numero que le dijimos.
